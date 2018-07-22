@@ -1,2 +1,0 @@
-# GitCLI
-Git from CLI
